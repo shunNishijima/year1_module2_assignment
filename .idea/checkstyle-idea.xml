@@ -10,6 +10,7 @@
       <list>
         <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
         <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="89b0f236-8bcf-4b18-8575-54e91f6630ca" type="LOCAL_FILE" scope="All" description="M2 Coding Conventions">$PROJECT_DIR$/checkstyle-ss-2020.xml</ConfigurationLocation>
       </list>
     </option>
   </component>
